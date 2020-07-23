@@ -1,0 +1,46 @@
+body {
+  background-color: rgba(150, 204, 134, 0.863);
+}
+nav {
+  text-align: left;
+  background-color: rgba(88, 207, 52, 0.863);
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav ul li {
+  display: inline-block;
+}
+nav ul li a {
+  display: block;
+  padding: 8px 16px;
+  text-decoration: none;
+  color: white;
+}
+nav ul li a:hover {
+  background-color: white;
+  color: rgba(88, 207, 52, 0.863);
+}
+
+.tbl {
+  width: 100%;
+  text-align: center;
+  background-color: rgba(88, 207, 52, 0.863);
+  color: white;
+  font-size: medium;
+}
+
+.imgup {
+  width: 250px;
+  height: 250px;
+}
+
+.button {
+  margin: 4px;
+  border-style: none;
+  padding: 4px 12px;
+}
+
+/*# sourceMappingURL=Product.css.map */

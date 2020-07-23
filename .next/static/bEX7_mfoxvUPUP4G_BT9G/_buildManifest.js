@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a){return {"/home":[a],"/proyek/Galeriproduk":[a],"/proyek/ListHarga":[a],"/proyek/Reseller":[a],"/proyek/pemesanan":[a]}}("static\u002Fchunks\u002F80cbd4564afcf49160553532e5db19d0c886fa75.02290db19fafbfebe1b3.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
